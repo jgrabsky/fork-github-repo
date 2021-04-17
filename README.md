@@ -33,3 +33,5 @@ https://pypi.org/project/fork-github-repo/
 https://www.earthdatascience.org/workshops/intro-version-control-git/about-forks/
 ### GNU General Public License
 https://www.gnu.org/licenses/gpl-3.0.en.html
+### Generate GitHub personal access token
+https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
